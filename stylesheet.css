@@ -3,9 +3,11 @@
 
 
 @font-face {
-    font-family: 'quentinregular';
-    src: url('quentin-webfont.woff2') format('woff2'),
-         url('quentin-webfont.woff') format('woff');
+    font-family: 'quentin';
+    
+    'https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot'
+    src: url('https://cdn.rawgit.com/sincerely-yrs/Quentin/master/quentin-webfont.woff') format('woff'),
+         url('https://cdn.rawgit.com/sincerely-yrs/Quentin/master/quentin-webfont.woff2') format('woff2')
     font-weight: normal;
     font-style: normal;
 
